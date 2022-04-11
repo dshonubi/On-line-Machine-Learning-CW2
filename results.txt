@@ -1,0 +1,5 @@
+# AA
+
+TotalLoss: 1972.3384123905341 # total loss of the AA
+
+COMMENTS # Any comments you would like to add should go below this line.
